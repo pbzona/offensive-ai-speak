@@ -1,6 +1,6 @@
 # offensive-ai-speak
 
-A catalog of offensive AI speak — the tells, tics, and turns of phrase that give it away.
+Shit that AI does that is annoying and should not do but it does it anyways
 
 ### Phrases
 
